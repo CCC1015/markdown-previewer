@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>Markdown Previewer</title>
+</head>
+<body>
+    <div class="container">
+        <textarea id="markdown-input" placeholder="Enter Markdown here..."></textarea>
+        <div id="html-output"></div>
+    </div>
+    <script>
+        const input = document.getElementById('markdown-input');
+        const output = document.getElementById('html-output');
+
+        input.addEventListener('input', async () => {
+            const markdown = input.value;
+            const response = await fetch('/convert', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ markdown })
+            });
+            const data = await response.json();
+            output.innerHTML = data.html;
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+D:\PROGRAMMING\markdown-previewer\backend\target\debug\deps\libuncased-2a800a0acf605b74.rmeta: C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\lib.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\serde.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\owned.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\borrowed.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\as_uncased.rs
+
+D:\PROGRAMMING\markdown-previewer\backend\target\debug\deps\libuncased-2a800a0acf605b74.rlib: C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\lib.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\serde.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\owned.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\borrowed.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\as_uncased.rs
+
+D:\PROGRAMMING\markdown-previewer\backend\target\debug\deps\uncased-2a800a0acf605b74.d: C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\lib.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\serde.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\owned.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\borrowed.rs C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\as_uncased.rs
+
+C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\lib.rs:
+C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\serde.rs:
+C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\owned.rs:
+C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\borrowed.rs:
+C:\Users\dylan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uncased-0.9.10\src\as_uncased.rs:
